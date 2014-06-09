@@ -1,0 +1,204 @@
+.large-3 {
+	width: 12%;
+}
+
+.large-9 {
+	margin-top: 1em;
+}
+.large-9 {
+    width: 75%;
+    float: right;
+}
+
+table a:hover {
+	text-decoration: underline;
+	color: #0078a0;
+}
+
+table {
+	width: 100%
+}
+
+
+img {
+	width:100%;
+	overflow: hidden;
+}
+
+.PER {
+	background-color: #D3D3D3;
+}
+
+.orbit-container .orbit-bullets {
+	margin-bottom: 2%;
+}
+
+
+.social-icons img {
+	display:inline-block;
+	float:right;
+
+}
+.large-12 .team-banner {
+	text-align: center;
+	border-style: solid;
+	border-color: #C00000;
+	margin-bottom: 1em;
+}
+.large-12 .team-banner-spurs {
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+	margin-bottom: 1em;
+}
+
+.divider{
+    position:absolute;
+    left:50%;
+    top:10%;
+    bottom:10%;
+    border-left:1px solid white;
+}
+
+.element.style {
+}
+.button-group li > button, .button-group li .button {
+/* border-left: 1px solid; */
+/* border-color: rgba(255, 255, 255, 0.5); */
+}
+button:hover, button:focus, .button:hover, .button:focus {
+color: white;
+}
+button:hover, button:focus, .button:hover, .button:focus {
+background-color: #C00000;
+}
+a:hover, a:focus {
+color: white;
+}
+a:hover {
+cursor: pointer;
+}
+@media only screen and (min-width: 40.063em)
+button, .button {
+display: inline-block;
+}
+button, .button {
+border-style: solid;
+border-width: 0px;
+cursor: pointer;
+font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+font-weight: normal;
+line-height: normal;
+margin: 0 0 1.25rem;
+position: relative;
+text-decoration: none;
+text-align: center;
+-webkit-appearance: none;
+-webkit-border-radius: 0;
+display: inline-block;
+padding-top: .5rem;
+padding-right: .5rem;
+padding-bottom: .5rem;
+padding-left: .5rem;
+font-size: 1rem;
+background-color: white;
+border-color: #007095;
+color: #C00000 ;
+transition: background-color 300ms ease-out;
+}
+a {
+color: #008cba;
+text-decoration: none;
+line-height: inherit;
+}
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+user agent stylesheeta:-webkit-any-link {
+color: -webkit-link;
+text-decoration: underline;
+cursor: auto;
+}
+Pseudo ::before element
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+Pseudo ::after element
+*, *:before, *:after {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+Inherited from li
+user agent stylesheetli {
+display: list-item;
+text-align: -webkit-match-parent;
+}
+Inherited from ul.right.button-group
+.button-group {
+list-style: none;
+margin: 0;
+left: 0;
+}
+ul, ol, dl {
+font-size: 1rem;
+line-height: 1.6;
+margin-bottom: 1.25rem;
+list-style-position: outside;
+font-family: inherit;
+}
+user agent stylesheetul, menu, dir {
+display: block;
+list-style-type: disc;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 40px;
+}
+Inherited from body
+body {
+background: white;
+color: #222222;
+padding: 0;
+margin: 0;
+font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+font-weight: normal;
+font-style: normal;
+line-height: 1;
+position: relative;
+cursor: default;
+}
+html, body {
+font-size: 100%;
+}
+Inherited from html.js.flexbox.flexboxlegacy.canvas.canvastext.webgl.no-touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+html, body {
+font-size: 100%;
+}
+
+.header .cornerText {
+        opacity: 0;
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        padding: 2px 10px;
+        color: #ffffff;
+        background: #000000;
+        text-decoration: none;
+        text-align: center;
+        -webkit-transition: opacity 500ms;
+        -moz-transition: opacity 500ms;
+        -o-transition: opacity 500ms;
+        transition: opacity 500ms;
+    }
+
+
+
+    .header:hover .cornerText {
+        opacity: 0.8;
+    }
